@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fe092b65-2ae1-d4bb-c399-c60b523b10f7
 resourcetype: Document
 title: readings_quests11.pdf
 uid: f68b539b-fedf-aabe-d6fb-271d28ac1f0a
