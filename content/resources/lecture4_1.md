@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-037-american-political-thought-spring-2004/a7b7de2d79255953b546e254de5fcfa7_lecture4_1.pdf
+file: /courses/17-037-american-political-thought-spring-2004/a7b7de2d79255953b546e254de5fcfa7_lecture4_1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

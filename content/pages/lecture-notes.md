@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lecture1_1))
+Introduction ({{% resource_link ad11a963-f293-c7a5-8aef-36e6016ddae5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lecture1_1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Interpreting American Political Thought ([PDF]({{< baseurl >}}/resources/lecture2_1))
+Interpreting American Political Thought ({{% resource_link aac08124-a198-7e2b-4671-edc20dfe0fbe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ The Protestant Background
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Revolutionary America ([PDF]({{< baseurl >}}/resources/lecture3_1))
+Revolutionary America ({{% resource_link bffa7484-4cba-df12-8d11-81bd9378ec69 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Revolutionary America ([PDF]({{< baseurl >}}/resources/lecture3_1))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Debating the Constitution ([PDF]({{< baseurl >}}/resources/lecture4_1))
+Debating the Constitution ({{% resource_link a7b7de2d-7925-5953-b546-e254de5fcfa7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ Debating the Constitution ([PDF]({{< baseurl >}}/resources/lecture4_1))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Jeffersonian Republicans v. Hamiltonian Federalists, with Madison in the Pivot ([PDF]({{< baseurl >}}/resources/lecture5_1))
+Jeffersonian Republicans v. Hamiltonian Federalists, with Madison in the Pivot ({{% resource_link beea85f7-cf9f-f3b4-a315-bdb4c34f48d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Jeffersonian Republicans v. Hamiltonian Federalists, with Madison in the Pivot (
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Individualism ([PDF]({{< baseurl >}}/resources/lecture6_1))
+Individualism ({{% resource_link 5cd0e053-1b09-9f3b-24f5-a59b6ea8abcf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ Individualism ([PDF]({{< baseurl >}}/resources/lecture6_1))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Racism, Nativism, and Sexism in Antebellum America ([PDF]({{< baseurl >}}/resources/lecture7_1))
+Racism, Nativism, and Sexism in Antebellum America ({{% resource_link 1a3188e1-28a8-f088-1d55-cacb19569eb3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Racism, Nativism, and Sexism in Antebellum America ([PDF]({{< baseurl >}}/resour
 9
 {{< tdclose >}}
 {{< tdopen >}}
-A New Birth of Freedom? ([PDF]({{< baseurl >}}/resources/lecture8_1))
+A New Birth of Freedom? ({{% resource_link e61f8d56-3a57-524a-0588-7241eddcb990 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ A New Birth of Freedom? ([PDF]({{< baseurl >}}/resources/lecture8_1))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-The New Inegalitarians, or The Descent of Man ([PDF]({{< baseurl >}}/resources/lecture9_1))
+The New Inegalitarians, or The Descent of Man ({{% resource_link b578e501-c8bf-c009-23a5-38e3f488e0da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ The New Inegalitarians, or The Descent of Man ([PDF]({{< baseurl >}}/resources/l
 11
 {{< tdclose >}}
 {{< tdopen >}}
-The Death of Freedom? ([PDF]({{< baseurl >}}/resources/lecture10_1))
+The Death of Freedom? ({{% resource_link c8d37a5e-89f7-b351-b6ff-f4e211f4b921 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ The Death of Freedom? ([PDF]({{< baseurl >}}/resources/lecture10_1))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-The Politics of Inclusion and the Politics of Difference ([PDF]({{< baseurl >}}/resources/lecture11_1))
+The Politics of Inclusion and the Politics of Difference ({{% resource_link 88edbf98-9ec0-410d-b06b-571a6524d82f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

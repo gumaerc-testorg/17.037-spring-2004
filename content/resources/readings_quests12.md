@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-037-american-political-thought-spring-2004/77d19dae33992c86f8894ac833f3bd8c_readings_quests12.pdf
+file: /courses/17-037-american-political-thought-spring-2004/77d19dae33992c86f8894ac833f3bd8c_readings_quests12.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
