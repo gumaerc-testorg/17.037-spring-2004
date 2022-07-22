@@ -5,6 +5,7 @@ file: /courses/17-037-american-political-thought-spring-2004/c8d37a5e89f7b351b6f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
