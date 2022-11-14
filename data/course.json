@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2004",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -46,6 +47,6 @@
   "learning_resource_types": [
     "Lecture Notes"
   ],
-  "site_uid": "25a7e40e-d851-47c6-b448-89ce6d5233f7",
+  "site_uid": "0c9d793d-9a63-435a-9d9b-19a30010cc55",
   "title": "Course Metadata"
 }
