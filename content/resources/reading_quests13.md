@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-037-american-political-thought-spring-2004/dd57cf8fb7bcaefdae3bbc2567377f9c_reading_quests13.pdf
+file: /ol-ocw-studio-app/courses/17-037-american-political-thought-spring-2004/dd57cf8fb7bcaefdae3bbc2567377f9c_reading_quests13.pdf
+file_size: 11146
 file_type: application/pdf
 learning_resource_types:
 - Assignments

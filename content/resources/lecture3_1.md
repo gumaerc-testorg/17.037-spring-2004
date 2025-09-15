@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-037-american-political-thought-spring-2004/bffa74844cbadf128d1181bd9378ec69_lecture3_1.pdf
+file: /ol-ocw-studio-app/courses/17-037-american-political-thought-spring-2004/bffa74844cbadf128d1181bd9378ec69_lecture3_1.pdf
+file_size: 374900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
